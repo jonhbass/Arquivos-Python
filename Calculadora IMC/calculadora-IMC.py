@@ -1,4 +1,5 @@
 #Calculadora IMC
+import os
 print ('***********************************')
 print ('-----------------------------------')
 print ('Cálculo do Índice de Massa Corporal')
@@ -36,3 +37,4 @@ else:
 	print('voçê tem Obesidade Grau III (mórbida)')
 print ('===================================')
 print ('***********************************')
+os.system("pause")
