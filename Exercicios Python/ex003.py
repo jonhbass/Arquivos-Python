@@ -7,4 +7,4 @@ while (digite == 's'):
         cont += 1
     digite = input('deseja fazer outra tabuada? [s/n]')  
 else:
-    print ('Obrigado por usar o programa!')  
+    print('Obrigado por usar o programa!')  
